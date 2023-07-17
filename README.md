@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahmoud-lotfy-cv.onrender.com/portfolio.html](https://mahmoud-lotfy-cv.onrender.com/portfolio.html)
 
-- 📄 Know about my experiences [https://mlotfy669.github.io/My_CV/](https://mlotfy669.github.io/My_CV/)
+- 📄 Know about my experiences [https://mahmoud-lotfy-cv.onrender.com/](https://mahmoud-lotfy-cv.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
