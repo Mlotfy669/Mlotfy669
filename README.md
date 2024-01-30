@@ -9,7 +9,5 @@
 <p align="left">M.lotfy9966@gmail.com</p>
 <p align="left">+20 1023272380</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlotfy669&show_icons=true&locale=en&layout=compact" alt="mlotfy669" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlotfy669&show_icons=true&locale=en" alt="mlotfy669" /></p>
 
